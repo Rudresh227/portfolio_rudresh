@@ -1,16 +1,73 @@
-# React + Vite
+# Rudresh Vasanth P | Software Development Engineer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance portfolio showcasing my journey as a Software Development Engineer and GCP Certified Data Engineer. This project highlights my expertise in building scalable full-stack applications, architecting AI-driven automation, and designing seamless user experiences.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Technical Expertise
 
-## React Compiler
+- **Frontend:** React.js, Framer Motion (Animations), Vanilla CSS (Premium Aesthetics)
+- **Backend:** Flask, Python, RESTful API Design
+- **Cloud & Data:** Google Cloud Platform (GCP), Cloud Run, Cloud SQL, BigQuery
+- **AI & Automation:** LLM Orchestration, AI Agents (ADK), n8n, Apache Airflow
+- **Certification:** Google Cloud Certified Professional Data Engineer
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Key Projects
 
-## Expanding the ESLint configuration
+- **Status Report Reviewer Agent:** An AI-driven solution for management-caliber feedback on project reports.
+- **Productivity Apps:** Production-grade Employee Management Systems with RBAC and SSO.
+- **Website Search Automation:** AI agents for automated competitive analysis and reporting.
+- **Operative:** Real-time data visualization and analytics dashboard integration.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Features
+
+- **Dynamic Experience Timeline:** Interactive journey through my professional milestones.
+- **Responsive Design:** Optimized for all devices with a premium "glassmorphism" aesthetic.
+- **AI-Focused Narrative:** Showcasing modern AI agent orchestration and workflow optimization.
+- **Performance Optimized:** Fast load times and smooth micro-animations.
+
+## 🏁 Getting Started
+
+### Prerequisites
+
+- Node.js (v18+)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rudresh227/portfolio_rudresh.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd frontend
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Development
+
+Run the local development server:
+```bash
+npm run dev
+```
+
+### Build
+
+Create a production-ready bundle:
+```bash
+npm run build
+```
+
+---
+
+## 📬 Contact Me
+
+- **Email:** [rudreshvasanth7@gmail.com](mailto:rudreshvasanth7@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rudresh-vasanth](https://linkedin.com/in/rudresh-vasanth)
+---
+
+*Created by Rudresh Vasanth P.*
