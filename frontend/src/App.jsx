@@ -47,14 +47,10 @@ const Navbar = () => (
         animate={{ opacity: 1, x: 0 }}
         className="nav-links"
       >
-        <a href="#about">About</a>
-        <a href="#projects">Journey</a>
-        <a href="#skills">Expertise</a>
-        <a href="#contact" className="btn btn-primary" style={{ 
-          padding: '0.5rem 1.25rem', 
-          fontSize: '0.85rem',
-          gap: '0.4rem' 
-        }}>
+        <a href="#about" className="hide-mobile">About</a>
+        <a href="#projects" className="hide-mobile">Journey</a>
+        <a href="#skills" className="hide-mobile">Expertise</a>
+        <a href="#contact" className="btn btn-primary nav-cta">
           Let's Connect <ArrowUpRight size={16} />
         </a>
       </motion.div>
@@ -138,8 +134,8 @@ I enjoy transforming ideas into practical products through clean code, modern te
 );
 
 const TimelineItem = ({ date, title, description, tags, icon: Icon, isLast }) => (
-  <div style={{ display: 'flex', gap: '2rem', position: 'relative' }}>
-    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+  <div className="timeline-item">
+    <div className="timeline-icon-container">
       <div style={{ 
         width: '40px', 
         height: '40px', 
