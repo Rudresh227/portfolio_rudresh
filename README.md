@@ -1,5 +1,7 @@
 # Rudresh Vasanth P | Software Development Engineer
 
+**Live Demo: [portfolio-rudresh.vercel.app](https://portfolio-rudresh.vercel.app/)**
+
 A modern, high-performance portfolio showcasing my journey as a Software Development Engineer and GCP Certified Data Engineer. This project highlights my expertise in building scalable full-stack applications, architecting AI-driven automation, and designing seamless user experiences.
 
 ---
